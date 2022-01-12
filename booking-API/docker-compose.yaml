@@ -1,0 +1,18 @@
+version: "3.8"
+services:
+  app:
+    container_name: booking-api
+    image: booking-api
+    build: ./
+    ports:
+      - "8080:8080"
+    depends_on:
+      - postgres
+  postgres:
+    image: postgres
+    ports:
+      - 5432
+    environment:
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_USER=postgres
+      - POSTGRES_DB=hotel
