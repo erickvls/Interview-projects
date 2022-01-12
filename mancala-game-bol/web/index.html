@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Mancala</title>
+	<link rel="stylesheet" href="css/app.css">
+</head>
+<body data-player="one">
+	<h1>Mancala</h1>
+	<p class="p-game" style="display:none">Game ID: <span class="game-id"></span></p>
+
+
+	<span class="player-name" style="display: none;">Player 2: <span id="player-two-name" style="color: green;"></span></span>
+	<div class="board">
+		<div id="pit14" class="player-two store"><p></p></div>
+		<div class="rows">
+			<div class="row player-two">
+				<div id="pit13" class="pit"><p>0</p></div>
+				<div id="pit12" class="pit"><p>0</p></div>
+				<div id="pit11" class="pit"><p>0</p></div>
+				<div id="pit10" class="pit"><p>0</p></div>
+				<div id="pit9" class="pit"><p>0</p></div>
+				<div id="pit8" class="pit"><p>0</p></div>
+			</div>
+
+			<div class="row player-one">
+				<div id="pit1" class="pit"><p>0</p></div>
+				<div id="pit2" class="pit"><p>0</p></div>
+				<div id="pit3" class="pit"><p>0</p></div>
+				<div id="pit4" class="pit"><p>0</p></div>
+				<div id="pit5" class="pit"><p>0</p></div>
+				<div id="pit6" class="pit"><p>0</p></div>
+			</div>
+		</div>
+
+		<div id="pit7" class="player-one store"><p></p></div>
+	</div>
+	<span class="player-name" style="display: none;">Player 1: <span id="player-one-name" style="color: blue;"></span></span>
+	<br>
+	<div style="margin-top: 3%;;">
+	
+		<h2 class="status" style="display:none">It is <span class="current-player">one</span>'s turn</h2>
+
+		
+		<button class="new-game">New Game</button>
+
+		<hr>
+		<div>
+			<p class="message"></p>
+		</div>
+	</div>
+
+	<script src="js/jquery.min.js"></script>
+	<script src="js/app.js"></script>
+</body>
+</html>

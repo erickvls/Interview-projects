@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="62a47268-3bfc-4907-850f-1fc33306872e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bol/mancala/api/MancalaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bol/mancala/api/MancalaApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bol/mancala/api/controller/GameResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bol/mancala/api/controller/GameResource.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1xLjvmV6VJo6mp3dE2pGhNTLxHd" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bol.mancala.api.exceptions" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.bol.mancala.api.model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MancalaApplication">
+    <configuration name="MancalaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bol.mancala.api.MancalaApplication" />
+      <module name="erick-vinicius" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bol.mancala.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameServiceTest.shouldCreateANewGameInstanceWhenGameStarted" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="erick-vinicius" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bol.mancala.api.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bol.mancala.api.service" />
+      <option name="MAIN_CLASS_NAME" value="com.bol.mancala.api.service.GameServiceTest" />
+      <option name="METHOD_NAME" value="shouldCreateANewGameInstanceWhenGameStarted" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoveServiceTest.shouldSowAndCollectOppositePitStoneByPlayerBottom" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="erick-vinicius" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bol.mancala.api.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bol.mancala.api.service" />
+      <option name="MAIN_CLASS_NAME" value="com.bol.mancala.api.service.MoveServiceTest" />
+      <option name="METHOD_NAME" value="shouldSowAndCollectOppositePitStoneByPlayerBottom" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoveServiceTest.shouldThrownExceptionWhenIsWrongTurnPlayerBottom" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="erick-vinicius" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bol.mancala.api.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bol.mancala.api.service" />
+      <option name="MAIN_CLASS_NAME" value="com.bol.mancala.api.service.MoveServiceTest" />
+      <option name="METHOD_NAME" value="shouldThrownExceptionWhenIsWrongTurnPlayerBottom" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="docker-compose.yaml.mongodb: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="mongodb" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yaml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MancalaApplication" />
+        <item itemvalue="JUnit.GameServiceTest.shouldCreateANewGameInstanceWhenGameStarted" />
+        <item itemvalue="Docker.docker-compose.yaml.mongodb: Compose Deployment" />
+        <item itemvalue="JUnit.MoveServiceTest.shouldSowAndCollectOppositePitStoneByPlayerBottom" />
+        <item itemvalue="JUnit.MoveServiceTest.shouldThrownExceptionWhenIsWrongTurnPlayerBottom" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62a47268-3bfc-4907-850f-1fc33306872e" name="Default Changelist" comment="" />
+      <created>1630141495942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630141495942</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="196" width="802" height="707" key="#Plugins" timestamp="1630838152385">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="555" y="196" width="802" height="707" key="#Plugins/0.25.1920.1055@0.25.1920.1055" timestamp="1630838152385" />
+    <state x="685" y="357" width="541" height="385" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1630149042950">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="685" y="357" width="541" height="385" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1920.1055@0.25.1920.1055" timestamp="1630149042950" />
+    <state x="768" y="271" width="376" height="557" key="#com.intellij.ide.util.MemberChooser" timestamp="1630781330148">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="768" y="271" width="376" height="557" key="#com.intellij.ide.util.MemberChooser/0.25.1920.1055@0.25.1920.1055" timestamp="1630781330148" />
+    <state x="680" y="244" width="552" height="611" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1630142056107">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="680" y="244" width="552" height="611" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.25.1920.1055@0.25.1920.1055" timestamp="1630142056107" />
+    <state x="568" y="149" width="768" height="795" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1630259772912">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="568" y="149" width="768" height="795" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.25.1920.1055@0.25.1920.1055" timestamp="1630259772912" />
+    <state x="693" y="302" width="526" height="495" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1630835491495">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="693" y="302" width="526" height="495" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1920.1055@0.25.1920.1055" timestamp="1630835491495" />
+    <state width="486" height="465" key="DebuggerActiveHint" timestamp="1631017710164">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="486" height="465" key="DebuggerActiveHint/0.25.1920.1055@0.25.1920.1055" timestamp="1631017710164" />
+    <state x="99" y="124" width="1722" height="856" key="DiffContextDialog" timestamp="1631021425757">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="99" y="124" width="1722" height="856" key="DiffContextDialog/0.25.1920.1055@0.25.1920.1055" timestamp="1631021425757" />
+    <state x="743" y="310" width="426" height="479" key="FileChooserDialogImpl" timestamp="1632235931605">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="743" y="310" width="426" height="479" key="FileChooserDialogImpl/0.25.1920.1055@0.25.1920.1055" timestamp="1632235931605" />
+    <state width="1878" height="220" key="GridCell.Tab.0.bottom" timestamp="1631281762636">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="220" key="GridCell.Tab.0.bottom/0.25.1920.1055@0.25.1920.1055" timestamp="1631281762636" />
+    <state width="1878" height="220" key="GridCell.Tab.0.center" timestamp="1631281762636">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="220" key="GridCell.Tab.0.center/0.25.1920.1055@0.25.1920.1055" timestamp="1631281762636" />
+    <state width="1878" height="220" key="GridCell.Tab.0.left" timestamp="1631281762636">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="220" key="GridCell.Tab.0.left/0.25.1920.1055@0.25.1920.1055" timestamp="1631281762636" />
+    <state width="1878" height="220" key="GridCell.Tab.0.right" timestamp="1631281762636">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="220" key="GridCell.Tab.0.right/0.25.1920.1055@0.25.1920.1055" timestamp="1631281762636" />
+    <state width="1878" height="324" key="GridCell.Tab.1.bottom" timestamp="1631190812773">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="324" key="GridCell.Tab.1.bottom/0.25.1920.1055@0.25.1920.1055" timestamp="1631190812773" />
+    <state width="1878" height="324" key="GridCell.Tab.1.center" timestamp="1631190812773">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="324" key="GridCell.Tab.1.center/0.25.1920.1055@0.25.1920.1055" timestamp="1631190812773" />
+    <state width="1878" height="324" key="GridCell.Tab.1.left" timestamp="1631190812773">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="324" key="GridCell.Tab.1.left/0.25.1920.1055@0.25.1920.1055" timestamp="1631190812773" />
+    <state width="1878" height="324" key="GridCell.Tab.1.right" timestamp="1631190812773">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="324" key="GridCell.Tab.1.right/0.25.1920.1055@0.25.1920.1055" timestamp="1631190812773" />
+    <state x="757" y="331" width="389" height="433" key="chooseDestDirectoryDialog" timestamp="1630322001626">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="757" y="331" width="389" height="433" key="chooseDestDirectoryDialog/0.25.1920.1055@0.25.1920.1055" timestamp="1630322001626" />
+    <state x="99" y="124" width="1722" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1630688434478">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="99" y="124" width="1722" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1920.1055@0.25.1920.1055" timestamp="1630688434478" />
+    <state x="666" y="301" width="587" height="502" key="find.popup" timestamp="1630944622880">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="666" y="301" width="587" height="502" key="find.popup/0.25.1920.1055@0.25.1920.1055" timestamp="1630944622880" />
+    <state x="623" y="254" key="run.anything.popup" timestamp="1630573915910">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="623" y="254" key="run.anything.popup/0.25.1920.1055@0.25.1920.1055" timestamp="1630573915910" />
+    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1631180826591">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup/0.25.1920.1055@0.25.1920.1055" timestamp="1631180826591" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/bol/mancala/api/exceptions/handler/GameHandler.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/bol/mancala/api/exceptions/handler/GameHandler.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/bol/mancala/api/service/impl/MoveServiceImpl.java</url>
+          <line>120</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/bol/mancala/api/service/impl/MoveServiceImpl.java</url>
+          <line>118</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/bol/mancala/api/service/GameServiceTest.java</url>
+          <line>135</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/bol/mancala/api/service/GameServiceTest.java</url>
+          <line>132</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/bol/mancala/api/service/MoveServiceTest.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/bol/mancala/api/service/impl/PlayerServiceImpl.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/bol/mancala/api/service/impl/PlayerServiceImpl.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/erick_vinicius$MancalaApplication.ic" NAME="MancalaApplication Coverage Results" MODIFIED="1630508148531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.bol.mancala.api.*</FILTER>
+    </SUITE>
+  </component>
+</project>
